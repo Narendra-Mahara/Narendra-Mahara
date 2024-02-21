@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my friens
 - 💬 Ask me about web development 
 - 📫 How to reach me: https://www.facebook.com/ITs.narendramahara
-- 😄 Pronouns: Babu
 - ⚡ Fun fact: I think everything is easy peasy lemon 🍋 squeezy 
 -->
