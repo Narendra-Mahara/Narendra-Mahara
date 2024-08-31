@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML CSS**
 
-- ⚡ Fun fact **Don't compete with me; surely you will win😉.**
+- ⚡ Fun fact: **Don't compete with me; surely you will win😉.**
   
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narendra-mahara" alt="narendra-mahara" /></a> </p>
