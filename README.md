@@ -13,7 +13,7 @@
 - ⚡ Fun fact: **Don't compete with me; surely you will win😉.**
   
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narendra-mahara" alt="narendra-mahara" /></a> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -36,4 +36,4 @@
    
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendra-mahara&show_icons=true&locale=en&layout=compact" alt="narendra-mahara" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendra-mahara&" alt="narendra-mahara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narendra-mahara" alt="narendra-mahara" /></p>
