@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT REACT**
+- 💬 Ask me about **HTML CSS JAVASCRIPT REACT EXPRESS MONGODB NGINX**
 
 - ⚡ Fun fact: **Don't compete with me; surely you will win😉.**
   
